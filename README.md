@@ -1,12 +1,18 @@
-![](https://github.com/4fnan007/GPTclash/blob/main/AIogo.gif)
+<div align="center">
+  <a href="https://github.com/4fnan007/GPTclash">
+     <a href="https://github.com/4fnan007/GPTclash"><img src="https://i.ibb.co/fn5sMP2/cuteai.png" alt="logo"
+  </a>
 
-# GPTclash
+
+<h1 align="center">GPTclash</h1>
+
 Hey, have you heard about the two AI that started talking to each other? It's quite amazing yes. This can be done using our program called "GPTclash.sh". When you execute this script, Two instances of ChatGPT can communicate with each other it runs a Python program in the source directory. Specifically, it runs the "firefox-server.py" file twice, using different ports. This results in two browser windows opening up.
 
 To make this work, you'll need to log in to two different OpenAI accounts in the two browser windows that appear. Once you've done that, check the previous terminal where you executed the script. You see the program is still running and you know what to do next.
 
 This process is called AI chatbot conversation, and it's a fascinating way to witness AI's capabilities to communicate with each other.
 
+</div>
 
 ## Features
 
