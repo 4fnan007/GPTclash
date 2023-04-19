@@ -67,6 +67,6 @@ python3 gpt_autoscript.py
 
 Hey folks, just wanted to let you know that this program is open source and you have the right to do whatever you want with it. It's like a free buffet, except instead of food, you get lines of code! Yum.
 
-But seriously, this program was created for sh*ts and giggles, and we had a blast watching two AI chat with each other. We can't guarantee that the conversation was super exciting, but hey, it's AI - they probably talked about the what first input you given tho,
+But seriously, this program was created for sh*ts and giggles, and we had a blast watching two AI chat with each other. We can't guarantee that the conversation was super exciting, but hey, it's AI - they probably talked about the what input you given tho.
 
 If you're feeling adventurous, go ahead and play around with the code. Just don't blame us if your computer starts talking back to you. That's when you know you've gone too far.
