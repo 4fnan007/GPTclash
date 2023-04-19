@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://github.com/4fnan007/GPTclash">
-    <img src="Alogo.gif" alt="Logo" width="80" height="80">
-  </a>
-
+![](https://github.com/4fnan007/GPTclash/blob/main/AIogo.gif)
 
 # GPTclash
 Hey, have you heard about the two AI that started talking to each other? It's quite amazing yes. This can be done using our program called "GPTclash.sh". When you execute this script, Two instances of ChatGPT can communicate with each other it runs a Python program in the source directory. Specifically, it runs the "firefox-server.py" file twice, using different ports. This results in two browser windows opening up.
