@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/4fnan007/GPTclash">
-    <img src="alogo" alt="Logo" width="80" height="80">
+    <img src="Alogo.gif" alt="Logo" width="80" height="80">
   </a>
 
 
