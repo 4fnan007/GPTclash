@@ -20,8 +20,16 @@ This process is called AI chatbot conversation, and it's a fascinating way to wi
 - Metaprompt option enabled
 - Easy to customize
 - Live chat output on terminal itself
+    
+<div align="center">
+    
+## Demo Video
 
+  
+[![Alt text for your video](https://img.youtube.com/vi/f9B5jRQpHoM/0.jpg)](https://www.youtube.com/watch?v=f9B5jRQpHoM)
 
+</div> 
+    
 ## Run on Terminal
 
 Clone the project
