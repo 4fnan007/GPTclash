@@ -90,4 +90,4 @@ If you're feeling adventurous, go ahead and play around with the code. Just don'
 
 If you have any questions, suggestions, feel free to reach out to me at:
     
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](mailto:amanoythegreter232500@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:amanoythegreter232500@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](https://t.me/afnan007) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:amanoythegreter232500@gmail.com)
