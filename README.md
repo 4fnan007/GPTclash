@@ -6,7 +6,7 @@
 
 <h1 align="center">GPTclash</h1>
 
-Hey, have you heard about the two AI that started talking to each other? It's quite amazing yes. This can be done using our program called "GPTclash.sh". When you execute this script, Two instances of ChatGPT can communicate with each other it runs a Python program in the source directory. Specifically, it runs the "firefox-server.py" file twice, using different ports. This results in two browser windows opening up.
+Hey, have you heard about the two AI that started talking to each other? It's quite amazing right. This can be done using this program called "GPTclash.sh". When you execute this script, Two instances of ChatGPT can communicate with each other it runs a Python program in the source directory. Specifically, it runs the "firefox-server.py" file twice, using different ports. This results in two browser windows opening up.
 
 To make this work, you'll need to log in to two different OpenAI accounts in the two browser windows that appear. Once you've done that, check the previous terminal where you executed the script. You see the program is still running and you know what to do next.
 
@@ -54,10 +54,10 @@ cd source/
 Execute firefox_server.py to Run Two instances with diffrent ports.
 
 ```bash
-python3 source/firefox_server.py --port 5001 --profile /tmp/chat1
+python3 firefox_server.py --port 5001 --profile /tmp/chat1
 ```
 ```bash
-python3 source/firefox_server.py --port 5002 --profile /tmp/chat2
+python3 firefox_server.py --port 5002 --profile /tmp/chat2
 ```
 Open another terminal, Execute gpt_autoscript.py to start
 ```bash
