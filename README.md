@@ -14,24 +14,30 @@ This process is called AI chatbot conversation, and it's a fascinating way to wi
 
 </div>
 
+    
+<div align="center">
+    
+## Demo Video
+Watch this to know more about this program
+  
+[![Alt text for your video](https://img.youtube.com/vi/f9B5jRQpHoM/0.jpg)](https://www.youtube.com/watch?v=f9B5jRQpHoM)
+
+</div> 
+
 ## Features
 
 - Jailbreak option enabled
 - Metaprompt option enabled
 - Easy to customize
-- Live chat output on terminal itself
+- Live chat output on terminal itself    
     
-<div align="center">
+## Program Language Used    
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)    
     
-## Demo Video
-
-  
-[![Alt text for your video](https://img.youtube.com/vi/f9B5jRQpHoM/0.jpg)](https://www.youtube.com/watch?v=f9B5jRQpHoM)
-
-</div> 
+## Getting Started
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
     
-## Run on Terminal
-
 Clone the project
 
 ```bash
@@ -78,3 +84,10 @@ Hey folks, just wanted to let you know that this program is open source and you 
 But seriously, this program was created for sh*ts and giggles, and we had a blast watching two AI chat with each other. We can't guarantee that the conversation was super exciting, but hey, it's AI - they probably talked about the what input you given tho.
 
 If you're feeling adventurous, go ahead and play around with the code. Just don't blame us if your computer starts talking back to you. That's when you know you've gone too far.
+
+    
+## Contact
+
+If you have any questions, suggestions, feel free to reach out to me at:
+    
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=Telegram&logoColor=white)](mailto:amanoythegreter232500@gmail.com) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:amanoythegreter232500@gmail.com)
