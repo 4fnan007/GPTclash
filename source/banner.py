@@ -6,7 +6,7 @@ print("       | |___) | |       | |        | |_____| |_____| |   | |_____) ) |  
 print("        \_____/|_|       |_|         \______)_______)_|   |_(______/|_|   |_|")
 print("                                                                             ")                   
 print("                                                           Developed By Afnan")
-print("                                                 https://github.com/4afnan007")  
+print("                                                 https://github.com/4fnan007")  
 print("                                                                             ") 
 print("Script is running...                                                         ")
 print("                                                                                                              ")
